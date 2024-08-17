@@ -1,0 +1,19 @@
+# virtual environment
+erpenv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.so
+db.sqlite3
+/media/
+*.sqlite3
+*.sqlite3-journal
+staticfiles/
+*/migrations/*.py
+
+# VS Code
+.vscode/
+
+.directory
